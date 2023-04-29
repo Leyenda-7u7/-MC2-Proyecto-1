@@ -1,0 +1,5 @@
+graph {
+	layout = neato	a[shape="point", width=0.2, fontsize=25 xlabel="a"] 
+	b[shape="point", width=0.2, fontsize=25 xlabel="b"] 
+	a--b [penwidth=3, len=2.9562584173364583]
+}
